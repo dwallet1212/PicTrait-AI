@@ -7,7 +7,7 @@ Windows SmartScreen 또는 브라우저에서 다운로드 횟수가 적거나 �
 공식 배포 페이지에 게시된 파일과 동일한지 확인하려면 PowerShell에서 다음 명령을 실행합니다.
 
 ```powershell
-Get-FileHash .\PicTrait-AI-1.0.0-Community-Edition-Setup-x64.exe -Algorithm SHA256
+Get-FileHash .\PicTrait-AI-1.0.0-Community-Edition-Portable-x64.zip -Algorithm SHA256
 ```
 
 결과를 함께 배포되는 `SHA256SUMS.txt`와 비교하세요. 해시 일치는 같은 파일임을 확인하는 방법이며 공인 서명이나 악성코드 검사를 대신하지 않습니다. 백신이 특정 위협으로 탐지하면 실행을 멈추고 탐지 제품·메시지·파일 해시를 제작자에게 알려주세요.

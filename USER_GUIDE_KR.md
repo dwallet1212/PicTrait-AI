@@ -2,9 +2,9 @@
 
 ## 설치
 
-Windows 10/11 x64에서 사용합니다. 설치 EXE를 실행하거나 무설치 ZIP 전체를 새 폴더에 풀고 `PicTrait-AI.exe`를 실행하세요. 두 배포 방식에 런타임과 AI 모델이 모두 들어 있습니다.
+Windows 10/11 x64에서 사용합니다. 공개 릴리즈의 무설치 ZIP 전체를 새 폴더에 풀고 `PicTrait-AI.exe`를 실행하세요. 무설치 패키지에 런타임과 AI 모델이 모두 들어 있습니다.
 
-시작 메뉴 이름은 **PicTrait AI Community Edition**입니다. 앱 화면에서는 **PicTrait AI Community Edition 1.0.0**으로 표시됩니다. 공인 코드 서명 전이므로 Windows·브라우저 경고가 나타날 수 있습니다. 자세한 내용은 [보안 안내](SECURITY_KR.md)를 확인하세요.
+별도 설치 없이 실행합니다. 앱 화면에서는 **PicTrait AI Community Edition 1.0.0**으로 표시됩니다. 공인 코드 서명 전이므로 Windows·브라우저 경고가 나타날 수 있습니다. 자세한 내용은 [보안 안내](SECURITY_KR.md)를 확인하세요.
 
 ## 사진 열기와 기본 보정
 
